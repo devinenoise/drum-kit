@@ -1,2 +1,3 @@
 # drum-kit
-A drumkit made using Javascript
+
+A playable drum kit made using vanilla Javascript.
